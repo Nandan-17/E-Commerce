@@ -54,10 +54,9 @@ Clone the repository:
 Copy code
 ```bash
 git clone https://github.com/your-username/ecommerce-sales-analysis.git
-```
 cd ecommerce-sales-analysis
+```
 Start Jupyter Notebook:
-
 bash
 Copy code
 jupyter notebook
