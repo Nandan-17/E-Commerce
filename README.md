@@ -48,12 +48,8 @@ The goal is to understand e-commerce sales dynamics and support data-driven deci
 
 Make sure you have Python 3.x installed.  
 Install the required libraries:  
-
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 Clone the repository:
-
-bash
 Copy code
 git clone https://github.com/your-username/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
@@ -64,13 +60,15 @@ Copy code
 jupyter notebook
 Open the file E-Commerce Sales Analysis.ipynb and run all cells.
 
-📁 Project Structure
+**📁 Project Structure**
+```bash
 python
 Copy code
 ├── dataset.zip                         # Compressed dataset of sales transactions  
 ├── E-Commerce Sales Analysis.ipynb     # Jupyter Notebook with analysis  
 ├── README.md                           # Project documentation  
-└── requirements.txt                    # Python dependencies (optional)  
+└── requirements.txt                    # Python dependencies (optional)
+```
 📂 Dataset
 You can download the dataset from here.
 (Ensure the file is placed in the same directory as the notebook before running analysis.)
