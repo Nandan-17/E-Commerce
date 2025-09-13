@@ -52,8 +52,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 Clone the repository:
 
 Copy code
-
+```bash
 git clone https://github.com/your-username/ecommerce-sales-analysis.git
+```
 cd ecommerce-sales-analysis
 Start Jupyter Notebook:
 
@@ -71,13 +72,13 @@ Copy code
 ├── README.md                           # Project documentation  
 └── requirements.txt                    # Python dependencies (optional)
 ```
-📂 Dataset
+**📂 Dataset**
 You can download the dataset from here.
 (Ensure the file is placed in the same directory as the notebook before running analysis.)
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 This project is for educational and research purposes only.
 The dataset represents anonymized e-commerce sales transactions and should not be used for commercial decision-making without validation.
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
