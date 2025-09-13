@@ -1,4 +1,9 @@
 # 🛒 E-Commerce Sales Analysis
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 Status: Active Jupyter Notebook  
 Visit the project notebook for full analysis: [Notebook Link]  
 An analytical study of e-commerce transactions from an online retail dataset. The dataset contains thousands of invoices with product details, customer information, and sales records. The analysis provides insights into sales performance, customer behavior, and profitability across regions and product categories.
