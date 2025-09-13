@@ -50,7 +50,9 @@ Make sure you have Python 3.x installed.
 Install the required libraries:  
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 Clone the repository:
+
 Copy code
+
 git clone https://github.com/your-username/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
 Start Jupyter Notebook:
